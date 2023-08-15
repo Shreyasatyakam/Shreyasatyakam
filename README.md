@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasatyakam&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasatyakam" /> </p>
 
-- 🌱 I’m currently learning **C, C++, Frontend Development**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **shreyasatyakam23@gmail.com**
 
